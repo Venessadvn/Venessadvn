@@ -5,7 +5,6 @@
 - 📫 How to reach me
 - Email: sreyadhar8118@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have a great humor 
 
 <!---
 Venessadvn/Venessadvn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
